@@ -1,0 +1,84 @@
+{
+  "publisher": "nyxb",
+  "name": "theme-lumos",
+  "displayName": "Lumos Theme",
+  "version": "0.0.1",
+  "packageManager": "pnpm@8.6.1",
+  "description": "",
+  "author": "",
+  "license": "MIT",
+  "homepage": "https://💻nyxb.ws",
+  "preview": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nyxb/vscode-theme-lumos.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nyxb/vscode-theme-lumos/issues"
+  },
+  "keywords": [
+    "theme",
+    "lumos",
+    "light",
+    "dark"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon.png",
+  "files": [
+    "themes"
+  ],
+  "engines": {
+    "vscode": "^1.78.2"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Lumos Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/lumos-dark.json"
+      },
+      {
+        "label": "Lumos Light",
+        "uiTheme": "vs",
+        "path": "./themes/lumos-light.json"
+      },
+      {
+        "label": "Lumos Black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/lumos-black.json"
+      },
+      {
+        "label": "Lumos Light Soft",
+        "uiTheme": "vs",
+        "path": "./themes/lumos-light-soft.json"
+      },
+      {
+        "label": "Lumos Dark Soft",
+        "uiTheme": "vs-dark",
+        "path": "./themes/lumos-dark-soft.json"
+      }
+    ]
+  },
+  "scripts": {
+    "build": "dynot src/index.ts",
+    "dev": "nodemon --watch src -e ts --exec \"dynot src/index.ts\"",
+    "vscode:prepublish": "nyxr build",
+    "lint": "eslint .",
+    "prepublishOnly": "nyxr build",
+    "release": "nyxlx changelogen@latest --output && vsce publish --no-dependencies"
+  },
+  "devDependencies": {
+    "@nyxb/eslint-config": "^0.0.53",
+    "@nyxb/utils": "^0.0.3",
+    "@types/color": "^3.0.3",
+    "@types/node": "^20.2.5",
+    "@vscode/vsce": "^2.19.0",
+    "dynot": "^0.1.8",
+    "eslint": "^8.42.0",
+    "nodemon": "^2.0.22",
+    "tsup": "^6.7.0",
+    "typescript": "^5.1.3"
+  }
+}
