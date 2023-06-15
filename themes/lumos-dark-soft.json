@@ -241,7 +241,7 @@
         "meta.definition.variable"
       ],
       "settings": {
-        "foreground": "#c99076"
+        "foreground": "#14F195"
       }
     },
     {
@@ -466,7 +466,7 @@
         "support.constant"
       ],
       "settings": {
-        "foreground": "#c99076"
+        "foreground": "#14F195"
       }
     },
     {
@@ -762,19 +762,19 @@
     },
     {
       "token": "constant",
-      "foreground": "c99076"
+      "foreground": "14F195"
     },
     {
       "token": "entity.name.constant",
-      "foreground": "c99076"
+      "foreground": "14F195"
     },
     {
       "token": "variable.language",
-      "foreground": "c99076"
+      "foreground": "14F195"
     },
     {
       "token": "meta.definition.variable",
-      "foreground": "c99076"
+      "foreground": "14F195"
     },
     {
       "token": "entity",
@@ -986,7 +986,7 @@
     },
     {
       "token": "support.constant",
-      "foreground": "c99076"
+      "foreground": "14F195"
     },
     {
       "token": "constant.numeric",

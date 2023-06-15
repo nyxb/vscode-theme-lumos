@@ -37,7 +37,7 @@ export const LumosThemes = {
    boolean: ['#14F195', '#1e754f'],
    operator: ['#9945FF', '#ab5959'],
    function: ['#14F195', '#59873a'],
-   constant: ['#c99076', '#a65e2b'],
+   constant: ['#14F195', '#a65e2b'],
    class: ['#5865F2', '#5a6aa6'],
    interface: ['#00FFFF', '#2e808f'],
    type: ['#99f6e4', '#2e8f82'],
