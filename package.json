@@ -67,7 +67,7 @@
     "vscode:prepublish": "nyxr build",
     "lint": "eslint .",
     "prepublishOnly": "nyxr build",
-    "release": "nyxlx changelogen@latest --output && vsce publish --no-dependencies"
+    "release": "nyxlx changelogen@latest --release && vsce publish --no-dependencies"
   },
   "devDependencies": {
     "@nyxb/eslint-config": "^0.0.53",
