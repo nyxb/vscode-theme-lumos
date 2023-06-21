@@ -43,7 +43,7 @@ export const LumosThemes = {
    type: ['#99f6e4', '#2e8f82'],
    builtin: ['#9945FF', '#ab5959'],
    property: ['#FEE75C', '#998418'],
-   namespace: ['#db889a', '#b05a78'],
+   namespace: ['#ff9900', '#b05a78'],
    punctuation: ['#5865F2', '#999999'],
    decorator: ['#bd8f8f', '#bd8f8f'],
    regex: ['#c4704f', '#ab5e3f'],
