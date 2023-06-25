@@ -150,7 +150,7 @@ export default function getTheme({ style, name, soft = false, black = false }) {
          'tab.unfocusedActiveBorderTop': border,
          'tab.activeBorder': border,
          'tab.unfocusedActiveBorder': border,
-         'tab.activeBorderTop': secondaryForeground,
+         'tab.activeBorderTop': primary,
 
          'breadcrumb.foreground': primer.gray[5],
          'breadcrumb.focusForeground': foreground,
