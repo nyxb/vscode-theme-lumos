@@ -1,6 +1,19 @@
 # Changelog
 
 
+## v0.0.5
+
+[compare changes](https://github.com/nyxb/vscode-theme-lumos/compare/v0.0.6...v0.0.5)
+
+
+### 🎨 Styles
+
+  - **theme.ts:** Change tab.activeBorderTop color to primary to improve UI consistency ([2591ef5](https://github.com/nyxb/vscode-theme-lumos/commit/2591ef5))
+
+### ❤️  Contributors
+
+- Nyxb <contact@nyxb.xyz>
+
 ## v0.0.4
 
 [compare changes](https://github.com/nyxb/vscode-theme-lumos/compare/v0.0.3...v0.0.4)
