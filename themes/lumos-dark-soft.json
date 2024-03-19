@@ -183,7 +183,7 @@
     "editorHint.foreground": "#14F195",
     "editorGutter.commentRangeForeground": "#dedcd550",
     "editorGutter.foldingControlForeground": "#dedcd590",
-    "editorInlayHint.foreground": "#5865F2",
+    "editorInlayHint.foreground": "#FEE75C",
     "editorInlayHint.background": "#00000000",
     "editorStickyScroll.background": "#292929",
     "editorStickyScrollHover.background": "#292929",
@@ -192,10 +192,10 @@
   "semanticHighlighting": true,
   "semanticTokenColors": {
     "namespace": "#ff9900",
-    "property": "#FEE75C",
+    "property": "#14F195",
     "interface": "#00FFFF",
     "type": "#00FFFF",
-    "class": "#5865F2"
+    "class": "#FEE75C"
   },
   "tokenColors": [
     {
@@ -230,7 +230,7 @@
         "punctuation"
       ],
       "settings": {
-        "foreground": "#5865F2"
+        "foreground": "#FEE75C"
       }
     },
     {
@@ -313,7 +313,7 @@
         "attribute.value"
       ],
       "settings": {
-        "foreground": "#EB459E"
+        "foreground": "#9945FF"
       }
     },
     {
@@ -322,13 +322,13 @@
         "punctuation.support.type.property-name"
       ],
       "settings": {
-        "foreground": "#EB459E99"
+        "foreground": "#9945FF99"
       }
     },
     {
       "scope": "support",
       "settings": {
-        "foreground": "#FEE75C"
+        "foreground": "#14F195"
       }
     },
     {
@@ -340,7 +340,7 @@
         "attribute.name"
       ],
       "settings": {
-        "foreground": "#FEE75C"
+        "foreground": "#14F195"
       }
     },
     {
@@ -349,7 +349,7 @@
         "invalid.deprecated.entity.other.attribute-name.html"
       ],
       "settings": {
-        "foreground": "#EEBC51"
+        "foreground": "#14F195"
       }
     },
     {
@@ -358,7 +358,7 @@
         "identifier"
       ],
       "settings": {
-        "foreground": "#EEBC51"
+        "foreground": "#14F195"
       }
     },
     {
@@ -432,7 +432,7 @@
     {
       "scope": "string variable",
       "settings": {
-        "foreground": "#EB459E"
+        "foreground": "#9945FF"
       }
     },
     {
@@ -452,7 +452,7 @@
         "string.regexp string.regexp.arbitrary-repitition"
       ],
       "settings": {
-        "foreground": "#EB459E"
+        "foreground": "#9945FF"
       }
     },
     {
@@ -638,7 +638,7 @@
         "punctuation.definition.string.end.markdown"
       ],
       "settings": {
-        "foreground": "#EB459E"
+        "foreground": "#9945FF"
       }
     },
     {
@@ -655,7 +655,7 @@
         "type.identifier"
       ],
       "settings": {
-        "foreground": "#5865F2"
+        "foreground": "#FEE75C"
       }
     },
     {
@@ -690,75 +690,75 @@
     },
     {
       "token": "delimiter.bracket",
-      "foreground": "5865F2"
+      "foreground": "FEE75C"
     },
     {
       "token": "delimiter",
-      "foreground": "5865F2"
+      "foreground": "FEE75C"
     },
     {
       "token": "invalid.illegal.character-not-allowed-here.html",
-      "foreground": "5865F2"
+      "foreground": "FEE75C"
     },
     {
       "token": "keyword.operator.rest",
-      "foreground": "5865F2"
+      "foreground": "FEE75C"
     },
     {
       "token": "keyword.operator.spread",
-      "foreground": "5865F2"
+      "foreground": "FEE75C"
     },
     {
       "token": "keyword.operator.type.annotation",
-      "foreground": "5865F2"
+      "foreground": "FEE75C"
     },
     {
       "token": "keyword.operator.relational",
-      "foreground": "5865F2"
+      "foreground": "FEE75C"
     },
     {
       "token": "keyword.operator.assignment",
-      "foreground": "5865F2"
+      "foreground": "FEE75C"
     },
     {
       "token": "meta.brace",
-      "foreground": "5865F2"
+      "foreground": "FEE75C"
     },
     {
       "token": "meta.tag.block.any.html",
-      "foreground": "5865F2"
+      "foreground": "FEE75C"
     },
     {
       "token": "meta.tag.inline.any.html",
-      "foreground": "5865F2"
+      "foreground": "FEE75C"
     },
     {
       "token": "meta.tag.structure.input.void.html",
-      "foreground": "5865F2"
+      "foreground": "FEE75C"
     },
     {
       "token": "meta.type.annotation",
-      "foreground": "5865F2"
+      "foreground": "FEE75C"
     },
     {
       "token": "meta.embedded.block.github-actions-expression",
-      "foreground": "5865F2"
+      "foreground": "FEE75C"
     },
     {
       "token": "storage.type.function.arrow",
-      "foreground": "5865F2"
+      "foreground": "FEE75C"
     },
     {
       "token": "keyword.operator.type",
-      "foreground": "5865F2"
+      "foreground": "FEE75C"
     },
     {
       "token": "meta.objectliteral.ts",
-      "foreground": "5865F2"
+      "foreground": "FEE75C"
     },
     {
       "token": "punctuation",
-      "foreground": "5865F2"
+      "foreground": "FEE75C"
     },
     {
       "token": "constant",
@@ -846,63 +846,63 @@
     },
     {
       "token": "string",
-      "foreground": "EB459E"
+      "foreground": "9945FF"
     },
     {
       "token": "string punctuation.section.embedded source",
-      "foreground": "EB459E"
+      "foreground": "9945FF"
     },
     {
       "token": "attribute.value",
-      "foreground": "EB459E"
+      "foreground": "9945FF"
     },
     {
       "token": "punctuation.definition.string",
-      "foreground": "EB459E99"
+      "foreground": "9945FF99"
     },
     {
       "token": "punctuation.support.type.property-name",
-      "foreground": "EB459E99"
+      "foreground": "9945FF99"
     },
     {
       "token": "support",
-      "foreground": "FEE75C"
+      "foreground": "14F195"
     },
     {
       "token": "property",
-      "foreground": "FEE75C"
+      "foreground": "14F195"
     },
     {
       "token": "meta.property-name",
-      "foreground": "FEE75C"
+      "foreground": "14F195"
     },
     {
       "token": "meta.object-literal.key",
-      "foreground": "FEE75C"
+      "foreground": "14F195"
     },
     {
       "token": "entity.name.tag.yaml",
-      "foreground": "FEE75C"
+      "foreground": "14F195"
     },
     {
       "token": "attribute.name",
-      "foreground": "FEE75C"
+      "foreground": "14F195"
     },
     {
       "token": "entity.other.attribute-name",
-      "foreground": "EEBC51"
+      "foreground": "14F195"
     },
     {
       "token": "invalid.deprecated.entity.other.attribute-name.html",
-      "foreground": "EEBC51"
+      "foreground": "14F195"
     },
     {
       "token": "variable",
-      "foreground": "EEBC51"
+      "foreground": "14F195"
     },
     {
       "token": "identifier",
-      "foreground": "EEBC51"
+      "foreground": "14F195"
     },
     {
       "token": "support.type.primitive",
@@ -954,7 +954,7 @@
     },
     {
       "token": "string variable",
-      "foreground": "EB459E"
+      "foreground": "9945FF"
     },
     {
       "token": "source.regexp",
@@ -966,19 +966,19 @@
     },
     {
       "token": "string.regexp.character-class",
-      "foreground": "EB459E"
+      "foreground": "9945FF"
     },
     {
       "token": "string.regexp constant.character.escape",
-      "foreground": "EB459E"
+      "foreground": "9945FF"
     },
     {
       "token": "string.regexp source.ruby.embedded",
-      "foreground": "EB459E"
+      "foreground": "9945FF"
     },
     {
       "token": "string.regexp string.regexp.arbitrary-repitition",
-      "foreground": "EB459E"
+      "foreground": "9945FF"
     },
     {
       "token": "string.regexp constant.character.escape",
@@ -1126,19 +1126,19 @@
     },
     {
       "token": "constant.other.reference.link",
-      "foreground": "EB459E"
+      "foreground": "9945FF"
     },
     {
       "token": "string.other.link",
-      "foreground": "EB459E"
+      "foreground": "9945FF"
     },
     {
       "token": "punctuation.definition.string.begin.markdown",
-      "foreground": "EB459E"
+      "foreground": "9945FF"
     },
     {
       "token": "punctuation.definition.string.end.markdown",
-      "foreground": "EB459E"
+      "foreground": "9945FF"
     },
     {
       "token": "markup.underline.link.markdown",
@@ -1146,7 +1146,7 @@
     },
     {
       "token": "type.identifier",
-      "foreground": "5865F2"
+      "foreground": "FEE75C"
     },
     {
       "token": "entity.other.attribute-name.html.vue",
