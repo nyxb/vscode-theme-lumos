@@ -4,7 +4,7 @@
    "editor.tabSize": 3,
    "editor.insertSpaces": true,
    "editor.codeActionsOnSave": {
-      "source.fixAll.eslint": true
+      "source.fixAll.eslint": "explicit"
    },
    "files.insertFinalNewline": true,
    "editor.trimAutoWhitespace": true,

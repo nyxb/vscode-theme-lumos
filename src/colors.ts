@@ -30,7 +30,7 @@ export const LumosThemes = {
    lowBorder: ['#252525', '#E7E5DB'],
 
    comment: ['#758575dd', '#a0ada0'],
-   string: ['#EB459E', '#b56959'],
+   string: ['#9945FF', '#b56959'],
    variable: ['#EEBC51', '#b07d48'],
    keyword: ['#14F195', '#1e754f'],
    number: ['#4C9A91', '#2f798a'],
