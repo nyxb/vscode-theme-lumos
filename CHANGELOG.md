@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v0.0.10
+
+[compare changes](https://github.com/nyxb/vscode-theme-lumos/compare/v0.0.10...v0.0.10)
+
+### 🎨 Styles
+
+- Update color scheme across multiple theme files to enhance visual consistency and improve accessibility ([c6a9990](https://github.com/nyxb/vscode-theme-lumos/commit/c6a9990))
+
+### ❤️ Contributors
+
+- Nyxb <dennis.ollhoff@joypix.gg>
+
 ## v0.0.9
 
 [compare changes](https://github.com/nyxb/vscode-theme-lumos/compare/v0.0.8...v0.0.9)
