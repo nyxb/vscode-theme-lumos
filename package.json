@@ -2,7 +2,7 @@
   "publisher": "nyxb",
   "name": "theme-lumos",
   "displayName": "Lumos Theme",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "packageManager": "pnpm@9.1.1",
   "description": "🔆 vscode theme based on the lumos color scheme",
   "author": "",
