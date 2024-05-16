@@ -13,7 +13,7 @@ export const colors = {
 
 // [dark, light]
 export const LumosThemes = {
-   primary: ['#14F195', '#9945FF'],
+   primary: ['#9945FF', '#9945FF'],
 
    foreground: ['#dbd7caee', '#393a34'],
    activeForeground: ['#bfbaaa', '#4e4f47'],
@@ -30,23 +30,23 @@ export const LumosThemes = {
    lowBorder: ['#252525', '#E7E5DB'],
 
    comment: ['#758575dd', '#a0ada0'],
-   string: ['#9945FF', '#b56959'],
-   variable: ['#14F195', '#b07d48'],
+   string: ['#ff9900', '#b56959'],
+   variable: ['#00FFFF', '#b07d48'],
    keyword: ['#14F195', '#1e754f'],
-   number: ['#4C9A91', '#2f798a'],
-   boolean: ['#14F195', '#1e754f'],
-   operator: ['#9945FF', '#ab5959'],
-   function: ['#14F195', '#59873a'],
-   constant: ['#14F195', '#a65e2b'],
-   class: ['#FEE75C', '#5a6aa6'],
-   interface: ['#00FFFF', '#2e808f'],
-   type: ['#99f6e4', '#2e8f82'],
-   builtin: ['#9945FF', '#ab5959'],
-   property: ['#14F195', '#998418'],
-   namespace: ['#ff9900', '#b05a78'],
-   punctuation: ['#FEE75C', '#999999'],
-   decorator: ['#bd8f8f', '#bd8f8f'],
-   regex: ['#c4704f', '#ab5e3f'],
+   number: ['#FEE75C', '#2f798a'],
+   boolean: ['#FF078A', '#1e754f'],
+   operator: ['#FF00FF', '#ab5959'],
+   function: ['#FEE75C', '#59873a'],
+   constant: ['#CCFF00', '#a65e2b'],
+   class: ['#CCFF00', '#5a6aa6'],
+   interface: ['#FF078A', '#2e808f'],
+   type: ['#CCFF00', '#2e8f82'],
+   builtin: ['#14F195', '#ab5959'],
+   property: ['#9945FF', '#998418'],
+   namespace: ['#FF780A', '#b05a78'],
+   punctuation: ['#FF00F', '#999999'],
+   decorator: ['#0099FF', '#bd8f8f'],
+   regex: ['#ffea7f', '#ab5e3f'],
 
    // colors
    green: ['#14F195', '#1e754f'],

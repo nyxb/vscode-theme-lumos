@@ -3,7 +3,7 @@
   "name": "theme-lumos",
   "displayName": "Lumos Theme",
   "version": "0.0.9",
-  "packageManager": "pnpm@8.6.1",
+  "packageManager": "pnpm@9.1.1",
   "description": "🔆 vscode theme based on the lumos color scheme",
   "author": "",
   "license": "MIT",
